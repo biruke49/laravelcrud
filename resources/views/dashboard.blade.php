@@ -6,6 +6,6 @@
  </div>
 
  @endif
- <p style="font-size:50px;margin-left:25%;margin-top:20%;"><strong>Welcome To Your Admin Panel </strong></p>
+ <p style="font-size:50px;margin-left:25%;margin-top:20%;"><strong>Welcome To Your Admin Panel Dude </strong></p>
 
 @endsection
